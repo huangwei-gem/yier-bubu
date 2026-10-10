@@ -120,7 +120,7 @@ Godot 4.7 写的，导出成**一个免安装的 exe**，双击就能玩，不�
 
 ### 直接玩
 
-到 [Releases](../../releases) 下载 `一二布布.exe`（单文件，约 111 MB），双击即可。拷给同学，对方双击也能玩，进度各自保存在自己电脑上。
+到 [Releases](https://github.com/huangwei-gem/yier-bubu/releases) 下载 `一二布布.exe`（单文件，约 111 MB），双击即可。拷给同学，对方双击也能玩，进度各自保存在自己电脑上。
 
 ### 用 Godot 打开工程
 
