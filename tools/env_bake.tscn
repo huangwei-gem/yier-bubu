@@ -1,0 +1,6 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://tools/env_bake.gd" id="1_envbake"]
+
+[node name="EnvBake" type="Node"]
+script = ExtResource("1_envbake")

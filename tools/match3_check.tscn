@@ -1,0 +1,6 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://tools/match3_check.gd" id="1_m3check"]
+
+[node name="Match3Check" type="Node"]
+script = ExtResource("1_m3check")

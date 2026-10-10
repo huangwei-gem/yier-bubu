@@ -1,0 +1,12 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# 原始生图（AI 出的参考图，体积 30MB，且是别人形象的衍生）：只用来烘 assets/sprites 与 assets/env，
+# 烘完的结果已经入库，所以这里不跟。要重烘请自备同名源图放回 assets/src/。
+assets/src/
+
+# 导出产物（发布走 GitHub Release 附件，不进版本库）
+build/
+*.pck
+*.exe~
